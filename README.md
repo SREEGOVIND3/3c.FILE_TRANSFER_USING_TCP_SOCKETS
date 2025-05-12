@@ -53,7 +53,7 @@ while True:
     conn.send('Thank you for connecting'.encode()) 
     conn.close()
 ```
-## OUPUT
+## OUTPUT
 ![3ccn](https://github.com/user-attachments/assets/530278b8-09b3-44d2-a08c-3d40833ebf53)
 
 ## RESULT
